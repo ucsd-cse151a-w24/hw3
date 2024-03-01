@@ -1,4 +1,4 @@
-# CSE 151A HW2
+# CSE 151A HW3
 
 Homework 3
 
